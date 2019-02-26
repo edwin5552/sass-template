@@ -2,32 +2,22 @@
 // Media Queries
 // ----------------------------------
 @media (min-width: $grid-xs) { 
-	.card:before {
-		content: "grid-xs";
-	}
+	
 }
 
 @media (min-width: $grid-sm) { 
-	.card:before {
-		content: "grid-sm";
-	}
+	
 }
 
 @media (min-width: $grid-md) {	
-	.card:before {
-		content: "grid-md";
-	}
+	
 }
 
 @media (min-width: $grid-lg) { 
-	.card:before {
-		content: "grid-lg";
-	}
+	
 }
 
 @media (min-width: $grid-xl) { 
-	.card:before {
-		content: "grid-xl";
-	}
+	
 }
 
